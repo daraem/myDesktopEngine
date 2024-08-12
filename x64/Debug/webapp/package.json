@@ -1,0 +1,15 @@
+{
+  "name": "desktopengine",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daraem",
+  "license": "",
+  "devDependencies": {
+    "electron": "^31.3.1"
+  }
+}
