@@ -1,2 +1,2 @@
 # myDesktopEngine
-kinda desktop game engine
+made for desktop games development
